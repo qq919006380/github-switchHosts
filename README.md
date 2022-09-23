@@ -4,4 +4,4 @@
 ## 解决
 切换host
 
-github最新hot https://github.com/ineo6/hosts
+github最新host https://github.com/ineo6/hosts
